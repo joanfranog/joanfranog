@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center"><b>Hola, soy Joan Frasquet Noguera</b> ✌️</h1>
+</div>
+<div align="center">
+  <img src="https://imgur.com/MKe8Yvl.jpg" alt="Joan Frasquet Noguera">
+</div>
 
-<!--
-**joanfranog/joanfranog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left" style="margin: 20px;">
+  <h2><b>About Me</b></h2>
+  <p>- I like programming⌨️</p>
+  <p>- I would like to improve my programming🧑‍💻</p>
+  <p>- I am currently a student📖</p>
+</div>
+<br>
 
-Here are some ideas to get you started:
+### ⚙️ &nbsp;GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <a href="https://github.com/joanfranog">
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joanfranog&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/joanfranog">
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joanfranog&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+  </div>
+</div>
