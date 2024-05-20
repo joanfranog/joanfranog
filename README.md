@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello, I am Joan Frasquet Noguera</b> ✌️</h1>
 </div>
 <div align="center">
-  <img src="https://imgur.com/36rca38.jpg" alt="Joan Frasquet Noguera">
+  <img src="https://imgur.com/noR2lBI.jpg" alt="Joan Frasquet Noguera">
 </div>
 
 <div align="left" style="margin: 20px;">
