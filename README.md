@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><b>Hello, I am Joan Frasquet Noguera</b> ✌️</h1>
+  <h1 align="center"><b>Hello, I am Joan Frasquet</b> ✌️</h1>
 </div>
 <div align="center">
   <img src="https://imgur.com/noR2lBI.jpg" alt="Joan Frasquet Noguera">
